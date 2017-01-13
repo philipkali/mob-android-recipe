@@ -1,1 +1,1 @@
-# mob-android-recipe
+# An android recipes app
